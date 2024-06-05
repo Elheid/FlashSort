@@ -1,0 +1,14 @@
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\bin\Debug\net8.0\FlashSort.exe
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\bin\Debug\net8.0\FlashSort.deps.json
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\bin\Debug\net8.0\FlashSort.runtimeconfig.json
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\bin\Debug\net8.0\FlashSort.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\bin\Debug\net8.0\FlashSort.pdb
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\FlashSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\FlashSort.AssemblyInfoInputs.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\FlashSort.AssemblyInfo.cs
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\FlashSort.csproj.CoreCompileInputs.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\FlashSort.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\refint\FlashSort.dll
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\FlashSort.pdb
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\FlashSort.genruntimeconfig.cache
+C:\Users\maxxx\OneDrive\Рабочий стол\FlashSort\FlashSort\FlashSort\obj\Debug\net8.0\ref\FlashSort.dll
